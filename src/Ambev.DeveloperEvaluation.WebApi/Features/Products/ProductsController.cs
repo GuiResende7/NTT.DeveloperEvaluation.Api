@@ -1,6 +1,8 @@
 using Ambev.DeveloperEvaluation.Application.Products.CreateProduct;
+using Ambev.DeveloperEvaluation.Application.Products.GetAllProducts;
 using Ambev.DeveloperEvaluation.WebApi.Common;
 using Ambev.DeveloperEvaluation.WebApi.Features.Products.CreateProduct;
+using Ambev.DeveloperEvaluation.WebApi.Features.Products.GetAllProducts;
 using AutoMapper;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -42,8 +44,29 @@ public class ProductsController(IMediator mediator, IMapper mapper) : BaseContro
         return Created(string.Empty, new ApiResponseWithData<CreateProductResponse>
         {
             Success = true,
-            Message = "Sale created successfully",
+            Message = "Product created successfully",
             Data = _mapper.Map<CreateProductResponse>(response)
+        });
+    }
+
+    /// <summary>
+    /// Get all products
+    /// </summary>
+    /// <param name="cancellationToken">Cancellation token</param>
+    /// <returns>All products in the database</returns>
+    [HttpGet("all")]
+    [ProducesResponseType(typeof(ApiResponseWithData<List<GetAllProductsResponse>>), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status400BadRequest)]
+    [ProducesResponseType(typeof(ApiResponse), StatusCodes.Status404NotFound)]
+    public async Task<IActionResult> GetAll(CancellationToken cancellationToken)
+    {
+        var response = await _mediator.Send(new GetAllProductsCommand(), cancellationToken);
+
+        return Ok(new ApiResponseWithData<List<GetAllProductsResponse>>
+        {
+            Success = true,
+            Message = "Products retrieved successfully",
+            Data = _mapper.Map<List<GetAllProductsResponse>>(response)
         });
     }
 }

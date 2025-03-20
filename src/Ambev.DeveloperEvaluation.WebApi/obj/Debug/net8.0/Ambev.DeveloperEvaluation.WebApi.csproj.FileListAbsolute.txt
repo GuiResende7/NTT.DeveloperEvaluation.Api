@@ -136,6 +136,7 @@ c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\templat
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.csproj.CoreCompileInputs.cache
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cs
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.MvcApplicationPartsAssemblyInfo.cache
+c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\Ambev.DeveloperEvaluation.WebApi.sourcelink.json
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\staticwebassets.development.json
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.WebApi\obj\Debug\net8.0\staticwebassets\msbuild.Ambev.DeveloperEvaluation.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
