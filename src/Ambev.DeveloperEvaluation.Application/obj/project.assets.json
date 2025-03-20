@@ -2247,11 +2247,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
+      "projectUniqueName": "C:\\Guilherme\\NTT\\NTT.DeveloperEvaluation.Api\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
       "projectName": "Ambev.DeveloperEvaluation.Application",
-      "projectPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
+      "projectPath": "C:\\Guilherme\\NTT\\NTT.DeveloperEvaluation.Api\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\obj\\",
+      "outputPath": "C:\\Guilherme\\NTT\\NTT.DeveloperEvaluation.Api\\src\\Ambev.DeveloperEvaluation.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2267,8 +2267,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-              "projectPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+            "C:\\Guilherme\\NTT\\NTT.DeveloperEvaluation.Api\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+              "projectPath": "C:\\Guilherme\\NTT\\NTT.DeveloperEvaluation.Api\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
             }
           }
         }
