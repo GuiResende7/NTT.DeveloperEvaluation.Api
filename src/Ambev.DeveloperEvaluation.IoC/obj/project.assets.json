@@ -2300,11 +2300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
+      "projectUniqueName": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
       "projectName": "Ambev.DeveloperEvaluation.IoC",
-      "projectPath": "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
+      "projectPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\Ambev.DeveloperEvaluation.IoC.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\obj\\",
+      "outputPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.IoC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guilh\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2320,14 +2320,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
-              "projectPath": "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
+            "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj": {
+              "projectPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Application\\Ambev.DeveloperEvaluation.Application.csproj"
             },
-            "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
-              "projectPath": "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj"
+            "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj": {
+              "projectPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Common\\Ambev.DeveloperEvaluation.Common.csproj"
             },
-            "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
-              "projectPath": "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
+            "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj": {
+              "projectPath": "c:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.Domain\\Ambev.DeveloperEvaluation.Domain.csproj"
             },
             "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj": {
               "projectPath": "C:\\Guilherme\\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\\template\\backend\\src\\Ambev.DeveloperEvaluation.ORM\\Ambev.DeveloperEvaluation.ORM.csproj"

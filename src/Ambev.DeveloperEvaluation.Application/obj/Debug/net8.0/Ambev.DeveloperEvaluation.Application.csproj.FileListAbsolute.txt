@@ -10,6 +10,7 @@ c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\templat
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.AssemblyInfoInputs.cache
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.AssemblyInfo.cs
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.csproj.CoreCompileInputs.cache
+c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.sourcelink.json
 C:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.De.8B5E65A2.Up2Date
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.dll
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Application.dll

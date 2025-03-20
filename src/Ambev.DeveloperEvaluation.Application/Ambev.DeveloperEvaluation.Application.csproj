@@ -18,6 +18,7 @@
   <ItemGroup>
     <Folder Include="Products\" />
     <Folder Include="Products\CreateProduct\" />
+    <Folder Include="Products\GetAllProducts\" />
     <Folder Include="Sales\CancelSale\" />
     <Folder Include="Sales\DeleteSale\" />
     <Folder Include="Sales\GetSale\" />
