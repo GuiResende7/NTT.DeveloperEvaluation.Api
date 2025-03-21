@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Events\" />
     <Folder Include="Products\" />
     <Folder Include="Products\CreateProduct\" />
     <Folder Include="Products\GetAllProducts\" />

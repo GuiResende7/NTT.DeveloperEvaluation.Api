@@ -1,4 +1,5 @@
 using Ambev.DeveloperEvaluation.Domain.Entities;
+using Ambev.DeveloperEvaluation.Domain.Events;
 using Ambev.DeveloperEvaluation.Domain.Repositories;
 using AutoMapper;
 using FluentValidation;
@@ -9,11 +10,12 @@ namespace Ambev.DeveloperEvaluation.Application.Sales.CreateSale;
 /// <summary>
 /// Handler for processing CreateSaleCommand requests
 /// </summary>
-public class CreateSaleHandler(ISaleRepository saleRepository, IProductRepository productRepository, IMapper mapper) : IRequestHandler<CreateSaleCommand, CreateSaleResult>
+public class CreateSaleHandler(ISaleRepository saleRepository, IProductRepository productRepository, IMapper mapper, IMediator mediator) : IRequestHandler<CreateSaleCommand, CreateSaleResult>
 {
     private readonly ISaleRepository _saleRepository = saleRepository;
     private readonly IProductRepository _productRepository = productRepository;
     private readonly IMapper _mapper = mapper;
+    private readonly IMediator _mediator = mediator;
 
     /// <summary>
     /// Handles the CreateSaleCommand request
@@ -64,6 +66,7 @@ public class CreateSaleHandler(ISaleRepository saleRepository, IProductRepositor
         sale.SetDiscount(discountPercentage);
 
         var createdSale = await _saleRepository.CreateAsync(sale, cancellationToken);
+        await _mediator.Publish(new SaleCreatedEvent(createdSale), cancellationToken);
         return _mapper.Map<CreateSaleResult>(createdSale);
     }
 }

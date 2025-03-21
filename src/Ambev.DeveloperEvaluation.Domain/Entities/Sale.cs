@@ -77,7 +77,7 @@ public class Sale : BaseEntity
     {
         int discountPercentage = 0;
         // Apply discounts only if there are more than 3 products in the sale
-        if (SaleProducts.Where(w => !w.Canceled).Count() > 3)
+        if (SaleProducts.Where(w => !w.Canceled).Sum(s => s.Quantity) > 3)
         {
             foreach (var saleProduct in SaleProducts)
             {

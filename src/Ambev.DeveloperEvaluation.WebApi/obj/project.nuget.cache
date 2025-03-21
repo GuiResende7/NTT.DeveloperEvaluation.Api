@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RLhx/Qa1pp8=",
+  "dgSpecHash": "ZP5AVvJ9r1s=",
   "success": true,
-  "projectFilePath": "C:\\Guilherme\\NTT\\NTT.DeveloperEvaluation.Api\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj",
+  "projectFilePath": "c:\\Guilherme\\NTT\\NTT.DeveloperEvaluation.Api\\src\\Ambev.DeveloperEvaluation.WebApi\\Ambev.DeveloperEvaluation.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",

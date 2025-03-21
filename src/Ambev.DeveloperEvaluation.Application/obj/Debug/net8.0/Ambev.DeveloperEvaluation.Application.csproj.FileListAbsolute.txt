@@ -16,3 +16,21 @@ c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\templat
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Application.dll
 c:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
 C:\Guilherme\abi-gth-omnia-developer-evaluation 1 (1) 5 (1) - NET 2025 1\template\backend\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Application.dll
+C:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.deps.json
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.dll
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.dll
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.dll
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\bin\Debug\net8.0\Ambev.DeveloperEvaluation.Common.pdb
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.csproj.AssemblyReference.cache
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.AssemblyInfoInputs.cache
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.AssemblyInfo.cs
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.csproj.CoreCompileInputs.cache
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.sourcelink.json
+C:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.De.8B5E65A2.Up2Date
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.dll
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Application.dll
+c:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Application.pdb
+C:\Guilherme\NTT\NTT.DeveloperEvaluation.Api\src\Ambev.DeveloperEvaluation.Application\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Application.dll
